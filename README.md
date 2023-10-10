@@ -3,7 +3,7 @@
 # Demonstration video
 video link: 
 
-# Table public dashboard links
+# Table public dashboard and story links
 Dashboard link 1:https://public.tableau.com/views/Dashboard1_16969095746430/ExpenseBreakdownInsightsintoDiverseBusinesscosts?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 
